@@ -1,0 +1,6 @@
+*/build/
+*/forksource/
+repo/
+build_env_check
+.DS_Store
+*/.DS_Store
